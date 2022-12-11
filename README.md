@@ -10,6 +10,7 @@
 1. このリポジトリをCloneする
 1. `testcases/data`にテストケースを入れる
 1. installする
+
     通常版を利用する場合は、
     ```
     go install ./cmd/lj
@@ -19,10 +20,11 @@
     go install ./cmd/tiny-lj
     ```
 
-### 実行ファイルが必要な場合
+### 実行ファイルを自分で設置する場合
 1. このリポジトリをCloneする
 1. `testcases/data`にテストケースを入れる
 1. installする
+
     通常版を利用する場合は、
     ```
     go build ./cmd/lj
